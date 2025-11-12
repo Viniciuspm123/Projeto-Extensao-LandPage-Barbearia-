@@ -1,2 +1,2 @@
-# Projeto-Extensao-LandPage-Barbearia-
-Projeto de Extensao - LandPage de uma Barbearia
+# ProjetodeExtensao2024
+ https://guilhermexavier52.github.io/ProjetodeExtensao2024/
